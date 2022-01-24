@@ -10,7 +10,7 @@
     ```
        git clone ...
     ```
-3. Enter project root and build front end
+3. Enter project root and build front end with 
         ```
             mvn clean install
         ```
