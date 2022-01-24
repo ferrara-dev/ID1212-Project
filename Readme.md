@@ -15,4 +15,7 @@
             mvn clean install
         ```
 4. Run the spring boot application
+ ```
+        mvn spring-boot:run
+```
    
