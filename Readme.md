@@ -4,9 +4,8 @@ Project done as part of course ID1212 network and communication.
 This project is a fullstack application with a front, service and data-layer.
 
 The project showcases my competence in both back- and front-end techonlogies. 
-Such as ReactJS, Spring Boot, Websockets, REST API's and MYSQL.
+Such as ReactJS, Spring Boot & Spring Secrurity, Websockets, REST API's, MYSQL and JWT authrization.
 
-Users can create an account and upload songs, 
 ## Music Sharing Application 
 ### prequerities
 1. Files stored with firebase storage, json authentication file must be added to project root.
